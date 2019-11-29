@@ -1,0 +1,9 @@
+[submodule "yolov3_master"]
+	path = yolov3_master
+	url = https://github.com/RajashekarY/yolov3.git
+[submodule "OIDv5_Toolkit"]
+	path = OIDv5_Toolkit
+	url = https://github.com/RajashekarY/OIDv4_ToolKit.git
+[submodule "yolo"]
+	path = yolo
+	url = https://github.com/RajashekarY/darknet.git
